@@ -76,7 +76,7 @@ fun BusinessCard() {
 
 
             Text(
-                text = "Sinh Viên Nợ 4 Môn",
+                text = "Học Sinh Lớp CT1C",
                 color = Color(0xFF3DDC84),
                 fontWeight = FontWeight.Bold,
                 fontSize = 24.sp
